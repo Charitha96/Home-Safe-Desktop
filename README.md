@@ -1,5 +1,5 @@
 # Home-Safe-Desktop
-Final Year Project 
+Matlab Desktop Application for the Home Safe
 
 ---
 ### Functionality
